@@ -1,0 +1,33 @@
+.head-container {
+  height: 80vh;
+  background-color: #ebebeb;
+  font-size: 1.8rem;
+  padding: 10vh 7vw;
+}
+
+.head-container .head-text-container {
+  width: 60vw;
+}
+
+.main-container {
+  padding: 0 7vw;
+  margin-top: 7vh;
+}
+
+.footbar {
+  height: 10vh;
+  background-color: #ebebeb;
+}
+
+.list-group {
+  border-radius: 0 !important;
+}
+
+li.list-group-item {
+  border-bottom: 1px solid !important;
+  border-bottom-color: black !important;
+}
+
+.show_img {
+  max-height: 420px !important;
+}

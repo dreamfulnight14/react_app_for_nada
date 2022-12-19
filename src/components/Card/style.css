@@ -1,0 +1,14 @@
+.card_container {
+  padding: 0 1vw 4vh 0;
+}
+
+.card_show {
+  width: 165px;
+  height: 240px;
+  background-color: gray;
+}
+
+.card_text {
+  font-size: 0.9rem;
+}
+
